@@ -4,4 +4,5 @@ title = "Hyde"
 theme = "hyde"
 
 [params]
-  themeColor = "theme-base-09"
+ disqusShortname="hugo-6"
+ themeColor = "theme-base-09"
